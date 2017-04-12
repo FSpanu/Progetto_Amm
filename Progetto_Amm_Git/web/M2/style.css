@@ -1,0 +1,278 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5-apr-2017, 12.26.02
+    Author     : Proprietario
+*/
+
+ body {
+    background-color:  aquamarine;
+    font: 17px/25px "Open Sans", Arial, sans-serif;
+    
+} 
+
+header {
+    color: grey;
+    font: 50px/60px "Open Sans", Arial, sans-serif;
+    font-weight: bold;
+    
+}
+
+h1 {
+    color: blue;
+    font: 35px/40px "Open Sans", Arial, sans-erif;
+    font-weight: bold;
+    
+}
+
+h2 {
+    color: lightseagreen;
+    font: 20px/30px "Open Sans", Arial, sans-erif;
+    
+    
+}
+
+h3 {
+    color: aquamarine;
+    font: 15px/20px "Open Sans", Arial, sans-erif;
+    font-weight: bold;
+    
+}
+
+a:link{
+    font-size: 20px;
+    text-decoration: none;
+    color: cyan;
+}
+
+a:visited{
+    font-size: 20px;
+    text-decoration: none;
+    color: deeppink;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    
+}
+
+.ImgPost {
+    width: 276px;
+    height: 77px;
+}
+
+
+
+#Kurumi{
+    background-color: white;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+    
+}
+
+.KurumiTokisaki{
+    position:absolute; 
+    top:130px; 
+    left:230px;
+} 
+
+.postKurumi {
+    position:absolute; 
+    top:200px; 
+    left:300px;
+     
+}
+
+.postKumagawa{
+    position:absolute; 
+    top:370px; 
+    left:400px;
+  
+    
+
+}
+
+#Kumagawa{
+    background-color: white;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+   
+}
+
+.KumagawaMisogi {
+    position:absolute; 
+    top:350px; 
+    left:220px;
+}
+
+#Zamass{
+    background-color: white;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+   
+}
+
+.Zamasu {
+    position:absolute; 
+    top:560px; 
+    left:230px; 
+}
+
+.postZamasu {
+    position:absolute; 
+    top:630px; 
+    left:400px;
+     
+}
+
+#Login{
+    width: 290px;
+    height: 190px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    position:absolute; 
+    top:100px; 
+    left:500px;
+    background-color: white;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+
+.Login {
+    position:absolute; 
+    left:140px;
+     
+}
+
+.Username {
+    position:absolute; 
+    top: 50px;
+       
+}
+
+.UsernameForm {
+    position:absolute; 
+    top: 50px;
+    left: 125px;      
+}
+
+.Password {
+    position:absolute; 
+    top: 100px;
+         
+    
+}
+
+.PasswordForm {
+    position:absolute; 
+    top: 100px;
+    left: 128px;        
+}
+
+.LoginButton {
+    position:absolute; 
+    top: 150px;
+    left: 140px;  
+    
+}
+
+#Profile{
+    width: 400px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    position:absolute; 
+    top:50px; 
+    left:450px;
+    background-color: white;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+
+.NomeUtente {
+    position:absolute; 
+    top: 50px;
+    right: 100px;  
+       
+}
+
+.CognomeUtente {
+    position:absolute; 
+    top: 75px;
+    right: 100px;  
+       
+}
+
+.DataNascita {
+    position:absolute; 
+    top: 100px;
+    right: 100px;  
+           
+}
+
+.ProfilePic {
+    position:absolute; 
+    top: 125px;
+    right: 258px;  
+           
+}
+
+.PersonalDesc {
+    position:absolute; 
+    top: 150px;
+    right: 257px;  
+           
+}
+
+.PersDescTesto {
+    position:absolute; 
+    top: 150px;
+    right: 54px;  
+           
+}
+
+.Url {
+    position:absolute; 
+    top: 125px;
+    right: 100px;  
+         
+    
+}
+
+.InserirePass {
+    
+    position: absolute;
+    top: 230px;
+    right: 102px;
+}
+
+.RipPass {    
+    position: absolute;
+    top: 256px;
+    right: 102px;  
+    
+}
+
+.Submit{   
+    position: absolute;
+    top: 300px;
+    right: 175px;
+}
+
+.InserireDati {
+    position:absolute; 
+    bottom: 340px;
+    right: 100px;  
+}
