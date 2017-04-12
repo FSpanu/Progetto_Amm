@@ -276,3 +276,32 @@ img {
     bottom: 340px;
     right: 100px;  
 }
+
+@media only screen and (max-width: 1024px) {
+    
+    
+    #Zamasu , #Kurumi , #Kumagawa 
+        {
+        width: auto;
+        padding: 5px;
+        font-size: 15px;
+        margin-bottom: 5px;
+         
+    }
+    
+    .postKumagawa , .postKurumi , .postZamasu         {
+        text-align: center;
+    
+    }
+    
+    .KurumiTokisaki , .KumagawaMisogi , .Zamasu {
+        margin-bottom: 5px;
+        padding: 5px;
+        width: auto;
+        height: 160px;
+    }
+}
+
+ 
+    
+
